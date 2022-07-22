@@ -1,4 +1,4 @@
-##### **[Algebraic Number Theory I: Galois Theory](https://raw.githubusercontent.com/ym-tang/Talks-and-Slides/blob/gh-pages/1.pdf)**
+##### **[Introduction to Ribet-Herbrand theorem](https://raw.githubusercontent.com/ym-tang/Talks-and-Slides/gh-pages/1.pdf)**
 
 
 
