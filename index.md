@@ -1,4 +1,5 @@
-##### **[Algebraic Number Theory I: Galois Theory](https://ym-tang.github.io/Talks-and-Slides/files/7538510/1.pdf)**
+##### **[Algebraic Number Theory I: Galois Theory](https://raw.githubusercontent.com/ym-tang/Talks-and-Slides/blob/gh-pages/1.pdf)**
+
 
 
 ### [Home](https://ym-tang.github.io/Home/)
